@@ -1,5 +1,6 @@
 Ques_1
-This is about Building a SkyScrapper with N number of Days and the floor are differnt sizes which means largest size floor should be at bottom of building and smallest size floor should be at top
+This is about Building a SkyScrapper with N number of Days and the floor are differnt sizes,
+which means largest size floor should be at bottom of building and smallest size floor should be at top
 In order to do that arrange the size of floors in descending order and use ArrayList and PriorityQueue.
 
 Ques_2
