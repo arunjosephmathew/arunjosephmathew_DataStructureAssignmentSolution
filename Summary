@@ -4,4 +4,4 @@ which means largest size floor should be at bottom of building and smallest size
 In order to do that arrange the size of floors in descending order and use ArrayList and PriorityQueue.
 
 Ques_2
-This is about converting a Binary Search Tree into Right Skew Tree.Use Inorder traversal and conversion method to do so.
+This is about converting a Binary Search Tree into Right Skew Tree.Use Inorder traversal and conversion method to do so .
